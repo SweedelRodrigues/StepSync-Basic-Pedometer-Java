@@ -72,7 +72,8 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         dbRef = FirebaseDatabase.getInstance().getReference("users");
 
         // Today's date
-        todayDate = new SimpleDateFormat("dd-MM-yyyy", Locale.getDefault()).format(new Date());
+        todayDate = new SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()).format(new Date());
+
 
         // Local storage
         prefs = getSharedPreferences("StepData", MODE_PRIVATE);
