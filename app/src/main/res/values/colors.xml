@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app theme colors -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- extras -->
+    <color name="black">#000000</color>
+    <color name="gray_600">#757575</color>
+    <color name="lavender_light">#E8E0FF</color>
+    <color name="lavender_mid">#C6B4FF</color>
+    <color name="lavender_dark">#9D7BFF</color>
+    <color name="lavender_deep">#6A4CFF</color>
+    <color name="text_dark">#333333</color>
+
+</resources>
